@@ -1,6 +1,8 @@
 # Startathon Soccer Bot ⚽
 
-![Robot CAD](Soccer%20Bot%20CAD%20Model.jpg)
+<p align="center">
+  <img src="Soccer%20Bot%20CAD%20Model.jpg" width="500">
+</p>
 
 A Bluetooth-controlled soccer robot powered by an ESP32, designed for fast response, efficient power usage, and competitive performance.
 
