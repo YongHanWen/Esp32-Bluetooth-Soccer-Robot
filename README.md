@@ -14,8 +14,8 @@ The robot is powered using a **higher-voltage battery configuration**, which red
 
 🏆 **Achievements**
 - 🥇 1st Prize Winner  
-- 💰 SGD $400 in prizes  
+- 💰 $400 in prizes in NTU Startathon Competition
 
 📚 **Usage and Recognition**
-- Used in **Garage@EEE Soccer Bot workshop**
-- Used in **Makerspace Friendliness Competitions**
+- Used in **NTU Garage@EEE Soccer Bot workshop**
+- Used in **NTU Makerspace Friendliness Competitions**
